@@ -3,6 +3,19 @@
 All notable changes to Simple Notch are listed here. Each release on GitHub uses
 the matching section below as its release notes.
 
+## [0.1.1] - 2026-09-17
+
+### Added
+
+- Automatic update check: Simple Notch looks for a new release on GitHub once a
+  day and offers to download it. Turn it off or check manually in Settings ›
+  General.
+
+### Changed
+
+- The app launcher holds up to 8 apps, up from 6.
+- Removed the "Use Preview Track" menu item from release builds.
+
 ## [0.1.0] - 2026-09-17
 
 ### Added
