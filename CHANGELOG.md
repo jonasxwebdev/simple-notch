@@ -3,6 +3,20 @@
 All notable changes to Simple Notch are listed here. Each release on GitHub uses
 the matching section below as its release notes.
 
+## [Unreleased]
+
+## [0.1.2] - 2026-09-17
+
+### Added
+
+- App launcher shortcuts can be reordered by dragging their icons in Settings,
+  with keyboard and context-menu controls available as alternatives.
+
+### Changed
+
+- Replaced download-only update notifications with signed Sparkle updates that
+  can download and install new versions automatically.
+
 ## [0.1.1] - 2026-09-17
 
 ### Added

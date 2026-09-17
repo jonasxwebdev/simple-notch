@@ -2,6 +2,10 @@
 
 Simple Notch bundles MediaRemote Adapter (https://github.com/ungive/mediaremote-adapter).
 
+Simple Notch also bundles Sparkle 2 (https://github.com/sparkle-project/Sparkle).
+Sparkle's license and the notices for its bundled components are reproduced in
+[licenses/Sparkle-LICENSE.txt](licenses/Sparkle-LICENSE.txt).
+
 ```
 BSD 3-Clause License
 

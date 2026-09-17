@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SimpleNotch</title>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 17 Sep 2026 09:46:59 +0000</pubDate>
+            <link>https://github.com/jonasxwebdev/simple-notch</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+### Added
+
+- App launcher shortcuts can be reordered by dragging their icons in Settings,
+  with keyboard and context-menu controls available as alternatives.
+
+### Changed
+
+- Replaced download-only update notifications with signed Sparkle updates that
+  can download and install new versions automatically.
+
+]]></description>
+            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.1.2/SimpleNotch-0.1.2.dmg" length="5580623" type="application/octet-stream" sparkle:edSignature="TLiGzcIB6lMYM2MhyyayelFNi4jjr79H2yKdTDmFmRBolGW0t0O65g7udSPMNzrOFPMjan493UPUU2WapWzsAA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 1b2xntUcPFBO6tapH1EcpR5oRYqM+//ioOr2OxHDQmU7i8Wb1JGFMWATUEDV7kGF9cIW0QTt+SPYUJ4IiPDWCw==
+length: 1512
+-->

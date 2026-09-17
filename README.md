@@ -26,6 +26,9 @@ Simple Notch is a small menu bar app. It puts the cover art and animated audio b
 - **Stays out of the way:** it can hide when an app is full screen or on external monitors.
 - **Low idle power:** animation stops whenever it can't be seen, and polling slows down when the notch is hidden or your Mac is in Low Power Mode.
 - **Reduce Motion aware:** with Reduce Motion on, animations become simple fades.
+- **Automatic updates:** Sparkle verifies, downloads, and installs signed
+  releases in the background. Both automatic checks and installs can be changed
+  in Settings.
 
 ## Requirements
 
@@ -38,7 +41,9 @@ Simple Notch is a small menu bar app. It puts the cover art and animated audio b
 2. Open the disk image and drag **SimpleNotch.app** into **Applications**.
 3. Open it. Simple Notch runs from the menu bar and has no Dock icon.
 
-The app is signed with a Developer ID and notarized by Apple. See [CHANGELOG.md](CHANGELOG.md) for what changed in each version.
+The app is signed with a Developer ID and notarized by Apple. After the first
+install, Sparkle keeps it up to date automatically. See
+[CHANGELOG.md](CHANGELOG.md) for what changed in each version.
 
 ## Permissions
 
