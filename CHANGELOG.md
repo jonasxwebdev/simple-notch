@@ -5,6 +5,22 @@ the matching section below as its release notes.
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-09-18
+
+### Added
+
+- Seven-day trial and in-app Polar license activation, with device-only
+  Keychain storage, support for up to three Macs, periodic validation, and a
+  seven-day offline allowance.
+- A Polar-powered storefront for one-time and yearly plans, including secure
+  post-checkout license-key delivery, download links, and activation guidance.
+- Legal notice, privacy policy, and software license terms for the storefront.
+
+### Changed
+
+- Now Playing marquee text uses Core Animation layers for smoother, more
+  reliable continuous scrolling.
+
 ## [0.1.2] - 2026-09-17
 
 ### Added
