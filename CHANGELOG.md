@@ -5,6 +5,15 @@ the matching section below as its release notes.
 
 ## [Unreleased]
 
+## [0.3.1] - 2026-09-20
+
+### Fixed
+
+- Restored continuous animation for the compact right-side music bars after
+  layout changes.
+- Made the compact play/pause control respond immediately, resist stale media
+  updates, and use the full right-side hit area.
+
 ## [0.2.0] - 2026-09-18
 
 ### Added

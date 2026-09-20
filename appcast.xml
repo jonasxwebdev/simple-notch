@@ -4,32 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SimpleNotch</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Fri, 18 Sep 2026 08:20:12 +0000</pubDate>
+            <title>0.3.1</title>
+            <pubDate>Sun, 20 Sep 2026 10:50:42 +0000</pubDate>
             <link>https://github.com/jonasxwebdev/simple-notch</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[
-### Added
+### Fixed
 
-- Seven-day trial and in-app Polar license activation, with device-only
-  Keychain storage, support for up to three Macs, periodic validation, and a
-  seven-day offline allowance.
-- A Polar-powered storefront for one-time and yearly plans, including secure
-  post-checkout license-key delivery, download links, and activation guidance.
-- Legal notice, privacy policy, and software license terms for the storefront.
-
-### Changed
-
-- Now Playing marquee text uses Core Animation layers for smoother, more
-  reliable continuous scrolling.
+- Restored continuous animation for the compact right-side music bars after
+  layout changes.
+- Made the compact play/pause control respond immediately, resist stale media
+  updates, and use the full right-side hit area.
 
 ]]></description>
-            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.2.0/SimpleNotch-0.2.0.dmg" length="7004476" type="application/octet-stream" sparkle:edSignature="4LvL1fDFZE3JSAokm3Q7PaYN8FhDb4o3Kw81lAvepZL3k+gNe2XOX7dmkpmVFBGy6psYABFNp+OXN37tAanIDQ=="></enclosure>
+            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.1/SimpleNotch-0.3.1.dmg" length="7810753" type="application/octet-stream" sparkle:edSignature="Dx0BSGXeCmFkztVBMNSj4M2QO5e6u+B+0dUMfEaSETDbhN/CkipSgfP2jvoj9OsIuR5rQ3v4R32ZyF27kVI4Aw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Dp9+OddONbyYWsMEYWQ5GsLLsdrLWWvaI9x+vF71rOQcesMguG4Siaw6uCYQALfrD28mB9bqmXDvqUxWtCYtDQ==
-length: 1751
+edSignature: 9nFubGs5FDPkbi1anGLjhsZEcK+dghxCMVWZstklJ6cZfXcI/4+UkDSjOkb0Q1uq4Ve4evXi5b0G8LoVCwyPAg==
+length: 1437
 -->
