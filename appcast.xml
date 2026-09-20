@@ -4,25 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SimpleNotch</title>
         <item>
-            <title>0.3.1</title>
-            <pubDate>Sun, 20 Sep 2026 10:50:42 +0000</pubDate>
+            <title>0.3.2</title>
+            <pubDate>Sun, 20 Sep 2026 11:03:58 +0000</pubDate>
             <link>https://github.com/jonasxwebdev/simple-notch</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[
 ### Fixed
 
-- Restored continuous animation for the compact right-side music bars after
-  layout changes.
-- Made the compact play/pause control respond immediately, resist stale media
-  updates, and use the full right-side hit area.
+- Keep the compact music bars animated during playback in Low Power Mode; the
+  meter still stops when paused, hidden, or Reduce Motion is enabled.
 
 ]]></description>
-            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.1/SimpleNotch-0.3.1.dmg" length="7810753" type="application/octet-stream" sparkle:edSignature="Dx0BSGXeCmFkztVBMNSj4M2QO5e6u+B+0dUMfEaSETDbhN/CkipSgfP2jvoj9OsIuR5rQ3v4R32ZyF27kVI4Aw=="></enclosure>
+            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.2/SimpleNotch-0.3.2.dmg" length="7810736" type="application/octet-stream" sparkle:edSignature="ZNDfCf/MSKIHcRyZJVJsUSg8wMWjQtZJzE8jdgx5Pq69qEDawpSBdKA1gRIWBWJ6iTezF+JzvFBY0MKsRwplDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9nFubGs5FDPkbi1anGLjhsZEcK+dghxCMVWZstklJ6cZfXcI/4+UkDSjOkb0Q1uq4Ve4evXi5b0G8LoVCwyPAg==
-length: 1437
+edSignature: LNdknR4fGcRtUo6vmVtgCUtLERE32P1CsN+fsgTUtUjjeVGdRvSwMj9cgapRgiWbXOChuRe/HfDX52mgwzpRDQ==
+length: 1364
 -->

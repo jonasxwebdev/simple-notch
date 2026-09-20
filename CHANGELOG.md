@@ -5,6 +5,13 @@ the matching section below as its release notes.
 
 ## [Unreleased]
 
+## [0.3.2] - 2026-09-20
+
+### Fixed
+
+- Keep the compact music bars animated during playback in Low Power Mode; the
+  meter still stops when paused, hidden, or Reduce Motion is enabled.
+
 ## [0.3.1] - 2026-09-20
 
 ### Fixed
