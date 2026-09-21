@@ -5,6 +5,17 @@ the matching section below as its release notes.
 
 ## [Unreleased]
 
+## [0.3.3] - 2026-09-21
+
+### Added
+
+- Weather widgets with current conditions, UV index, saved locations, and
+  WeatherKit setup guidance.
+- Important-event notifications in the notch, plus a larger drawer owned by
+  the selected left-side widget.
+- Expanded Coding Agents drawer and refinements to compact playback controls,
+  scrolling text, and customization.
+
 ## [0.3.2] - 2026-09-20
 
 ### Fixed

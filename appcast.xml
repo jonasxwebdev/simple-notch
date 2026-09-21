@@ -4,23 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SimpleNotch</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Sun, 20 Sep 2026 11:03:58 +0000</pubDate>
+            <title>0.3.3</title>
+            <pubDate>Mon, 21 Sep 2026 05:02:28 +0000</pubDate>
             <link>https://github.com/jonasxwebdev/simple-notch</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[
-### Fixed
+### Added
 
-- Keep the compact music bars animated during playback in Low Power Mode; the
-  meter still stops when paused, hidden, or Reduce Motion is enabled.
+- Weather widgets with current conditions, UV index, saved locations, and
+  WeatherKit setup guidance.
+- Important-event notifications in the notch, plus a larger drawer owned by
+  the selected left-side widget.
+- Expanded Coding Agents drawer and refinements to compact playback controls,
+  scrolling text, and customization.
 
 ]]></description>
-            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.2/SimpleNotch-0.3.2.dmg" length="7810736" type="application/octet-stream" sparkle:edSignature="ZNDfCf/MSKIHcRyZJVJsUSg8wMWjQtZJzE8jdgx5Pq69qEDawpSBdKA1gRIWBWJ6iTezF+JzvFBY0MKsRwplDQ=="></enclosure>
+            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.3/SimpleNotch-0.3.3.dmg" length="7537049" type="application/octet-stream" sparkle:edSignature="A0qF4icnK61G/HO491scIZb5xKkFFe9EVpWdoho9tA0Wvb+3nd4XGU2Yv0RHdP68IAJuZHCu1k2sOaxJiKBzDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LNdknR4fGcRtUo6vmVtgCUtLERE32P1CsN+fsgTUtUjjeVGdRvSwMj9cgapRgiWbXOChuRe/HfDX52mgwzpRDQ==
-length: 1364
+edSignature: zhUDzDmaQPyJIr3M8jE1EcqABhVJlrV14eAyirw+QzloMT/oPIXT4c/Q3VqIJ1FvJdoCYv5kKg0QM6rJdbrIDw==
+length: 1544
 -->
