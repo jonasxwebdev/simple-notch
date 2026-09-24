@@ -4,27 +4,41 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SimpleNotch</title>
         <item>
-            <title>0.3.3</title>
-            <pubDate>Mon, 21 Sep 2026 05:02:28 +0000</pubDate>
+            <title>0.3.4</title>
+            <pubDate>Thu, 24 Sep 2026 05:06:04 +0000</pubDate>
             <link>https://github.com/jonasxwebdev/simple-notch</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[
 ### Added
 
-- Weather widgets with current conditions, UV index, saved locations, and
-  WeatherKit setup guidance.
-- Important-event notifications in the notch, plus a larger drawer owned by
-  the selected left-side widget.
-- Expanded Coding Agents drawer and refinements to compact playback controls,
-  scrolling text, and customization.
+- Coding agent mascots for Claude Code and Codex. Their pose shows whether an
+  agent is working, needs permission, needs input, finished, or failed, in the
+  notch, the Coding Agents drawer, and Settings.
+- Volume and brightness keys replace the macOS indicator with the notch event
+  once Accessibility access is granted. The Important Events settings show
+  a button to grant it.
+
+### Changed
+
+- Paused music keeps its artwork on the left, but the right side returns to
+  your chosen widget 10 seconds after pausing.
+- Claude Code background-task notifications show their summary instead of raw
+  markup.
+
+### Fixed
+
+- Hiding in full screen now detects full-screen apps on notched displays, per
+  display, and no longer mistakes a zoomed window for full screen.
+- Weather retries failed updates with backoff and refreshes after the Mac wakes
+  from sleep.
 
 ]]></description>
-            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.3/SimpleNotch-0.3.3.dmg" length="7537049" type="application/octet-stream" sparkle:edSignature="A0qF4icnK61G/HO491scIZb5xKkFFe9EVpWdoho9tA0Wvb+3nd4XGU2Yv0RHdP68IAJuZHCu1k2sOaxJiKBzDA=="></enclosure>
+            <enclosure url="https://github.com/jonasxwebdev/simple-notch/releases/download/v0.3.4/SimpleNotch-0.3.4.dmg" length="7926805" type="application/octet-stream" sparkle:edSignature="QWexNcI4rBp0BFvHd/ERoZnd9Sxt6J+AVDqP8JqeAt0cnE/G1DvVQIEe3OPjEMJxp9dOYMNAJdqyjwCfcX3HDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zhUDzDmaQPyJIr3M8jE1EcqABhVJlrV14eAyirw+QzloMT/oPIXT4c/Q3VqIJ1FvJdoCYv5kKg0QM6rJdbrIDw==
-length: 1544
+edSignature: ssxk/bJdJvuD/i+cz4/YpP1kz9q0cL/B3xqhgjYfLEU1vvsjKL/FDb1S8x1wTBLuu+XRddigITUsxp9v47GcBw==
+length: 2076
 -->

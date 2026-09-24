@@ -5,6 +5,31 @@ the matching section below as its release notes.
 
 ## [Unreleased]
 
+## [0.3.4] - 2026-09-24
+
+### Added
+
+- Coding agent mascots for Claude Code and Codex. Their pose shows whether an
+  agent is working, needs permission, needs input, finished, or failed, in the
+  notch, the Coding Agents drawer, and Settings.
+- Volume and brightness keys replace the macOS indicator with the notch event
+  once Accessibility access is granted. The Important Events settings show
+  a button to grant it.
+
+### Changed
+
+- Paused music keeps its artwork on the left, but the right side returns to
+  your chosen widget 10 seconds after pausing.
+- Claude Code background-task notifications show their summary instead of raw
+  markup.
+
+### Fixed
+
+- Hiding in full screen now detects full-screen apps on notched displays, per
+  display, and no longer mistakes a zoomed window for full screen.
+- Weather retries failed updates with backoff and refreshes after the Mac wakes
+  from sleep.
+
 ## [0.3.3] - 2026-09-21
 
 ### Added
